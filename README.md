@@ -1,2 +1,3 @@
-# GDJESIS
-This Capstone project aims to create School Portal with a Web-based Enrollment and Student Information System (SIS) platform explicitly tailored for GDJES. This platform will enable real-time monitoring and management of student information, automate the enrollment process, and reduce paperwork and manual entry errors. 
+# GREGORIA DE JESUS ELEMENTARY SCHOOL PORTAL: WEB-BASED ENROLLMENT AND STUDENT INFORMATION SYSTEM
+
+This Capstone project aims to create School Portal with a Web-based Enrollment and Student Information System (SIS) platform explicitly tailored for GDJES. This platform will enable real-time monitoring and management of student information, automate the enrollment process, and reduce paperwork and manual entry errors. With a user-friendly interface, the platform will ensure data security and privacy, offering features such as an announcement section, student portal, and comprehensive dashboard for monitoring key performance indicators and school statistics.
